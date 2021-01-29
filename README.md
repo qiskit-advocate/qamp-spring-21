@@ -6,15 +6,15 @@
 
 ## Introduction
 
-Hey, fellow Qiskit advocates! Have you already set your 2021 quantum resolutions? We are excited to announce the Qiskit advocate mentorship program to help you fulfil them! This program provides opportunities for skills development and professional growth in the quantum industry.
+Hey, fellow Qiskit advocates! Have you already set your 2021 quantum resolutions? We are excited to announce the Qiskit advocate mentorship program to help you fulfill them! This program provides opportunities for skills development and professional growth in the quantum industry.
 
 ## Purpose
 
-As the quantum industry rapidly grows, nurturing enthusiastic talents from diverse backgrounds is central to Qiskit’s success. As a Qiskit advocate, you have taken the first steps in your quantum journey. Now, through our new mentorship program, you will be able to boost your progress with opportunities to develop your skills in areas ranging from programming and quantum information science to technical writing. You will also gain first-hand experience through projects completed with the guidance of our very own IBM Quantum and Qiskit experts.
+As the quantum industry rapidly grows, nurturing enthusiastic talents from diverse backgrounds is central to Qiskit’s success. As a Qiskit advocate, you have taken the first steps in your quantum journey. Now, through our new mentorship program, you will be able to boost your progress with opportunities to develop your skills in areas ranging from programming, quantum information science, and technical writing. You will also gain first-hand experience through projects completed with the guidance of IBM Quantum and Qiskit experts.
 
 ## Timeline
 
-*Note: dates are not finalised and subject to change*
+*Note: dates may be subject to change*
 
 1. **Application open (Feb 1st - 15th, 2021)**
     Applicants submit application form. Tell us why you want to join the mentorship program and show us your level of expertise in quantum computing and Qiskit by providing evidence (for example, pull requests to Qiskit GitHub).
@@ -23,11 +23,11 @@ As the quantum industry rapidly grows, nurturing enthusiastic talents from diver
 1. **Defining projects deliverables (Mar 1st - 7th, 2021)**
     Mentors and mentees work together to refine the project ideas and define the deliverables based on mentees' commitment and skills level.
 1. **Mentoring period (Mar 1st - Jun 1st, 2021)**
-    Mentees work on the project with guidance from mentors. Mentors should meet with mentees regularly (1 hour call every week or every 2 weeks) to check the progress and provide feedbacks.
+    Mentees work on the project with guidance from mentors. Mentors should meet with mentees regularly (1 hour call every week) to check the progress and provide feedback.
 1. **Mid-term review (Mid Apr, 2021)**
-    Mentees to share project ideas and current progress to other mentees in a group call to get feedback.
+    Mentees will share project ideas and current progress to other mentees in a group call to get feedback.
 1. **Final showcase (Mid Jun, 2021)**
-    Mentess to present the final outcome of projects in a group all. Projects will be evaluated and highlighted in a series of Qiskit Medium blog post. All projects contributing to Qiskit code or Qiskit tutorials/textbook should be reviewed and accepted.
+    Mentess will present the final outcome of projects. Projects will be evaluated and highlighted in a series of Qiskit Medium blog post.
 
 ## Commitment from mentees
 
@@ -42,7 +42,7 @@ During application period (a few hours)
 During mentoring period (> 5 hours per week)
 - Discuss with your mentor to refine project details and define deliverables. (during the first 2 weeks)
 - Work on a project with guidance from your mentor. You should dedicate at least 5 hours per week for a meaningful mentorship experience.
-- Meet with your mentor regularly to report progress and get feedbacks. (1 hour call every week or every 2 weeks).
+- Meet with your mentor regularly to report progress and get feedbacks. (1 hour call every week).
 - Present project ideas and progress in mid-term review (Mid Apr, 2021)
 - Present final outcome in the final showcase (Mid Jun, 2021)
 
