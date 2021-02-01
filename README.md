@@ -101,3 +101,6 @@ A: The official mentoring period is 3 months, from Mar 1st to Jun 1st. The final
 ### Q: How does a mentor and a mentee gets matched?
 A: You will be matched based on the project preference and interest areas indicated in your application form as well as the evidence you have provided to demonstrate your experience and commitment.
 
+## Acknowledgement
+
+Special thanks to [Amira Abbas](https://github.com/amyami187), [Diego Emilio Serrano](https://github.com/diemilio), [Julien Gacon](https://github.com/Cryoris) and [Michał Stęchły](https://github.com/mstechly) for sharing their experiences and insights from [qosf mentorship program](https://qosf.org/qc_mentorship/) which were crucial in shaping this mentorship program for Qiskit advocates.
