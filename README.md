@@ -1,10 +1,10 @@
 # Qiskit Advocate Mentorship Program
 
-<p style="text-align: center;">
-<a href="\mid-term_checkpoint">NEW! Check mid-term checkpoint presentations here</a>
-</p>
+**NEW! Check mid-term checkpoint presentations here**
 
-[NEW! Check mid-term checkpoint presentations here](/mid-term_checkpoint)
+- [Eastern hemisphere session](https://www.youtube.com/watch?v=_wZyLV9pTxI&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=25)
+- [Western hemisphere session](https://www.youtube.com/watch?v=cxLPd_RUi6A&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=26)
+- [Presentation slides](#mid-term_checkpoint)
 
 ## Introduction
 
