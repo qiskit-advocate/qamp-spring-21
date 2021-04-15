@@ -4,7 +4,7 @@
 
 - [Eastern hemisphere session](https://www.youtube.com/watch?v=_wZyLV9pTxI&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=25)
 - [Western hemisphere session](https://www.youtube.com/watch?v=cxLPd_RUi6A&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=26)
-- [Presentation slides](\mid-term_checkpoint)
+- [Presentation slides](/mid-term_checkpoint)
 
 ## Introduction
 
