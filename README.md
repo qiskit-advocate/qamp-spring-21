@@ -1,9 +1,11 @@
 # Qiskit Advocate Mentorship Program
-<!--
-<p style="text-align: center;">
-<a href="https://airtable.com/shrUqAnET8uD2ujSh">Apply for the mentorship program</a>
-</p>
--->
+
+**NEW! Check mid-term checkpoint presentations here**
+
+- [Eastern hemisphere session](https://www.youtube.com/watch?v=_wZyLV9pTxI&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=25)
+- [Western hemisphere session](https://www.youtube.com/watch?v=cxLPd_RUi6A&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=26)
+- [Presentation slides](/mid-term_checkpoint)
+
 ## Introduction
 
 Hey, fellow Qiskit advocates! Have you already set your 2021 quantum resolutions? We are excited to announce the Qiskit advocate mentorship program to help you fulfill them! This program provides opportunities for skills development and professional growth in the quantum industry.
