@@ -1,9 +1,11 @@
 # Qiskit Advocate Mentorship Program
-<!--
+
 <p style="text-align: center;">
-<a href="https://airtable.com/shrUqAnET8uD2ujSh">Apply for the mentorship program</a>
+<a href="\mid-term_checkpoint">NEW! Check mid-term checkpoint presentations here</a>
 </p>
--->
+
+[NEW! Check mid-term checkpoint presentations here](/mid-term_checkpoint)
+
 ## Introduction
 
 Hey, fellow Qiskit advocates! Have you already set your 2021 quantum resolutions? We are excited to announce the Qiskit advocate mentorship program to help you fulfill them! This program provides opportunities for skills development and professional growth in the quantum industry.
