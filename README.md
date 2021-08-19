@@ -18,17 +18,17 @@ As the quantum industry rapidly grows, nurturing enthusiastic talents from diver
 
 *Note: dates may be subject to change*
 
-1. **Application open (Feb 1 - 15, 2021)**
+1. **Application open (August 19 - 31, 2021)**
     Applicants submit application form. Tell us why you want to join the mentorship program and show us your level of expertise in quantum computing and Qiskit by providing evidence (for example, pull requests to Qiskit GitHub).
-1. **Selecting mentees (Feb 16 - 28, 2021)**
+1. **Selecting mentees (September 1 - 14, 2021)**
     Mentors have the freedom to decide how many mentees and how many projects to take and assign an individual or a group on a project.
-1. **Defining projects deliverables (Mar 3 - 14, 2021)**
+1. **Defining projects deliverables (September 15 - 22, 2021)**
     Mentors and mentees work together to refine the project ideas and define the deliverables based on mentees' commitment and skills level.
-1. **Mentoring period (Mar 3 - Jun 3, 2021)**
+1. **Mentoring period (September 22 - December 15, 2021)**
     Mentees work on the project with guidance from mentors. Mentors should meet with mentees regularly (1 hour call every week) to check the progress and provide feedback.
-1. **Mid-term review (Apr 1, 2021)**
+1. **Mid-term review (October 21, 2021)**
     Mentees will share project ideas and current progress to other mentees in a group call to get feedback.
-1. **Final showcase (Jun 3, 2021)**
+1. **Final showcase (December 30, 2021)**
     Mentess will present the final outcome of projects. Projects will be evaluated and highlighted in a series of Qiskit Medium blog post.
 
 ## Commitment from mentees
